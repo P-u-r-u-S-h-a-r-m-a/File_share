@@ -1,0 +1,27 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Django specific files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+db.sqlite3
+
+# Media files
+media/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
